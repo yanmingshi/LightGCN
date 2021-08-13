@@ -1,0 +1,11 @@
+/saved*
+/log
+.vscode/
+.idea/
+*.pyc
+*.log
+saved/
+*.lprof
+*.egg-info/
+docs/build/
+
